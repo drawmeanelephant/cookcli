@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.39.0](https://github.com/cooklang/cookcli/compare/v0.38.1...v0.39.0) (2026-10-10)
+
+
+### Features
+
+* a menu can use another menu as one of its meals ([#609](https://github.com/cooklang/cookcli/issues/609)) ([d99192b](https://github.com/cooklang/cookcli/commit/d99192b4c5d39cc48f0d0091ed0fb254add3042e))
+
 ## [0.38.1](https://github.com/cooklang/cookcli/compare/v0.38.0...v0.38.1) (2026-10-09)
 
 
